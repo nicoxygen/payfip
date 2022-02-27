@@ -166,24 +166,24 @@ msgid "Choose a type"
 msgstr ""
 
 #. Plugin Name of the plugin/theme
-msgid "Tipi"
+msgid "Payfip"
 msgstr ""
 
 #. Plugin URI of the plugin/theme
-msgid ""
-"https://www.patricelaurent.net/portfolio/e-commerce/tipi-pour-wordpress/"
+msgid "https://github.com/nicoxygen/payfip/"
+""
 msgstr ""
 
 #. Description of the plugin/theme
 msgid ""
-"This plugin allow you tu use the TIPI Gateway allowing people to pay by "
+"This plugin allow you tu use the PAYFIP Gateway allowing people to pay by "
 "credit card dierctly from your site."
 msgstr ""
 
 #. Author of the plugin/theme
-msgid "Patrice LAURENT"
+msgid "Nicolas RODRIGUEZ"
 msgstr ""
 
 #. Author URI of the plugin/theme
-msgid "https://www.patricelaurent.net"
+msgid "https://github.com/nicoxygen/"
 msgstr ""
