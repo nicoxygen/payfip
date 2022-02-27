@@ -23,7 +23,7 @@
  * Author URI:        https://www.ettendorf.fr
  * License:           GPLv2 or later
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
- * Text Domain:       wp-payfip
+ * Text Domain:       wp-tipi
  * Domain Path:       /languages
  * Github Plugin URI: https://github.com/nicoxygen/payfip/
  * Requires at least: 5.1
