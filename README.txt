@@ -50,7 +50,16 @@ Automatic updates should work like a charm; as always though, ensure you backup 
 6. The back-end for Invoice Type
 7. The content from the Admin Editor
 
+== address of intégration
+
+https://www.collectivites-locales.gouv.fr/files/Finances%20locales/7.%20moyens%20de%20paiement/3.%20PayfiP/guide_2021/Guide%20de%20mise%20en%20oeuvre%20PayFiP%20REGIES%20%2B%20annexesVJUIN2021.pdf
+
 == Changelog ==
+
+= 1.2.0.0 - 2022-02-27 =
+
+* fix value for mode test
+* fix link of payment tipi.budget to payfip
 
 = 1.1.7.1 - 2017-08-24 =
 
