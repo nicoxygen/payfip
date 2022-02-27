@@ -8,17 +8,18 @@
  * registers the activation and deactivation functions, and defines a function
  * that starts the plugin.
  *
- * @link              https://www.patricelaurent.net
+ * @link              https://www.ettendorf.fr
  * @since             1.0.0
  * @package           Tipi
  *
  * @wordpress-plugin
- * Plugin Name:       Tipi
- * Plugin URI:        https://www.patricelaurent.net/portfolio/e-commerce/tipi-pour-wordpress/
- * Description:       This plugin allow you tu use the TIPI Gateway allowing people to pay by credit card dierctly from your site.
+ * Plugin Name:       Payfip
+ * Plugin URI:        https://github.com/nicoxygen/payfip/
+ * Description:       This plugin allow you tu use the PAYFIP Gateway allowing people to pay by credit card dierctly from your site.
  * Version:           1.2.0.0
- * Author:            Patrice LAURENT
- * Author URI:        https://www.patricelaurent.net
+ * Author:            Nicolas RODRIGUEZ
+ * Fork:	      Patrice LAURENT
+ * Author URI:        https://www.ettendorf.fr
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       wp-tipi
