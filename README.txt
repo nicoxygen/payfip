@@ -1,24 +1,22 @@
 === TIPI ===
 
-Contributors: eoni
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PC7ZCMRQ79AD6
 Tags: credit card, ecommerce, e-commerce, mairie, city hall, collectivity
 Requires at least: 4.4
-Tested up to: 4.8
-Stable tag: 1.1.7.1
+Tested up to: 5.9
+Stable tag: 1.2.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Author URI: https://www.patricelaurent.net
-Plugin URI: https://www.patricelaurent.net/portfolio/e-commerce/tipi-pour-wordpress/
+Fork-Author URI: https://www.patricelaurent.net
+Fork-Plugin URI: https://www.patricelaurent.net/portfolio/e-commerce/tipi-pour-wordpress/
 
-Tipi for Wordpress is a plugin allowing city hall and collectivities to integrate the TIPI payment gateway into their website, simply and efficiently
+Tipi/Payfip for Wordpress is a plugin allowing city hall and collectivities to integrate the TIPI/PAYFIP payment gateway into their website, simply and efficiently
 
 == Description ==
 
-Allow people to pay their invoices with Visa, MasterCard and more cards directly from your website with the TIPI payment gateway.
-A test version is available online. You can access [the online demo](https://www.patricelaurent.net/tipi-demo/).
+Allow people to pay their invoices with Visa, MasterCard and more cards directly from your website with the TIPI/PAYFIP payment gateway.
+A test version is available online.
 
-Information and Documentation available on the [official Website](https://www.patricelaurent.net/portfolio/e-commerce/tipi-pour-wordpress/).
+Information and Documentation available on the [official Website](https://github.com/nicoxygen/payfip/).
 
 = Offer Credit card payments easily and directly from your website =
 
@@ -56,7 +54,7 @@ https://www.collectivites-locales.gouv.fr/files/Finances%20locales/7.%20moyens%2
 
 == Changelog ==
 
-= 1.2.0.0 - 2022-02-27 =
+= 1.2.0.2 - 2022-02-27 =
 
 * fix value for mode test
 * fix link of payment tipi.budget to payfip
