@@ -1,16 +1,16 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Tipi\n"
-"POT-Creation-Date: 2017-07-08 05:44+0200\n"
-"PO-Revision-Date: 2017-07-08 05:44+0200\n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"Project-Id-Version: Payfip\n"
+"POT-Creation-Date: 2022-02-27 16:01+0100\n"
+"PO-Revision-Date: 2022-02-27 15:05+0000\n"
+"Last-Translator: Nicolas Rodriguez\n"
+"Language-Team: Français\n"
 "Language: fr_FR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 2.0.2\n"
+"X-Generator: Loco https://localise.biz/\n"
 "X-Poedit-Basepath: ..\n"
 "X-Poedit-Flags-xgettext: --add-comments=translators:\n"
 "X-Poedit-WPHeader: tipi.php\n"
@@ -19,35 +19,37 @@ msgstr ""
 "esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
 "_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
 "X-Poedit-SearchPath-0: .\n"
-"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Loco-Version: 2.5.8; wp-5.9.1"
 
 #: admin/class-tipi-admin.php:96 admin/class-tipi-admin.php:97
 msgid "TIPI Gateway"
-msgstr "Paiement TIPI"
+msgstr "Passerelle PAYFIP"
 
 #: admin/class-tipi-admin.php:130
 msgid "Enter Your Tipi Client Number"
-msgstr "Entrez votre numéro de client TIPI"
+msgstr "Entrez votre numéro de client PAYFIP"
 
 #: admin/class-tipi-admin.php:138
 msgid "Input Mode"
-msgstr "Mode de saisie"
+msgstr "Mode d'entrée"
 
 #: admin/class-tipi-admin.php:146
 msgid "Where to display it ?"
-msgstr "Choisir la page où afficher le formulaire"
+msgstr "Où l'afficher ?"
 
 #: admin/class-tipi-admin.php:153
 msgid "Disable plugin css style?"
-msgstr "Désactiver les styles (fichiers CSS) du plugin?"
+msgstr "Désactiver le style CSS du plugin ?"
 
 #: admin/class-tipi-admin.php:162 admin/class-tipi-admin.php:378
 msgid "Settings"
-msgstr "Réglages"
+msgstr "Paramètres"
 
 #: admin/class-tipi-admin.php:220
 msgid "&mdash; Select &mdash;"
-msgstr "&mdash; Sélectionnez &mdash;"
+msgstr "&mdash; Sélectionner &mdash;"
 
 #: admin/class-tipi-admin.php:226
 msgid "Show"
@@ -55,7 +57,7 @@ msgstr "Afficher"
 
 #: admin/class-tipi-admin.php:228
 msgid "Add New Page"
-msgstr "Ajouter une nouvelle Page"
+msgstr "Ajouter une nouvelle page"
 
 #: admin/class-tipi-admin.php:239
 msgid "Yes"
@@ -68,40 +70,40 @@ msgstr "Non"
 #: admin/class-tipi-admin.php:249
 msgctxt "Post Type General Name"
 msgid "Tipi FAQs"
-msgstr "FAQs TIPI"
+msgstr "FAQ PAYFIP"
 
 #: admin/class-tipi-admin.php:250
 msgctxt "Post Type Singular Name"
 msgid "Tipi FAQ"
-msgstr "FAQ Tipi"
+msgstr "FAQ PAYFIP"
 
 #: admin/class-tipi-admin.php:251
 msgid "Tipi Faqs"
-msgstr "FAQs TIPI"
+msgstr "FAQ PAYFIP"
 
 #: admin/class-tipi-admin.php:252
 msgid "Faq Tipi"
-msgstr "FAQ Tipi"
+msgstr "Faq Payfip"
 
 #: admin/class-tipi-admin.php:253
 msgid "Tipi Faq Archives"
-msgstr "Archive TIPI Faq"
+msgstr "Payfip Faq Archives"
 
 #: admin/class-tipi-admin.php:254
 msgid "All Tipi Faqs"
-msgstr "Toutes les FAQs TIPI"
+msgstr "Toutes les FAQ Payfip"
 
 #: admin/class-tipi-admin.php:255
 msgid "Add a FAQ"
-msgstr "Ajouter une FAQ Tipi"
+msgstr "Ajouter une FAQ"
 
 #: admin/class-tipi-admin.php:259
 msgid "Tipi FAQ"
-msgstr "FAQ Tipi"
+msgstr "FAQ PAYFIP"
 
 #: admin/class-tipi-admin.php:260
 msgid "Manage Tipi Faq"
-msgstr "Gérer FAQ TIPI"
+msgstr "Gérer Payfip Faq"
 
 #: admin/class-tipi-admin.php:284
 msgctxt "Post Type General Name"
@@ -111,11 +113,11 @@ msgstr "Types de factures"
 #: admin/class-tipi-admin.php:285
 msgctxt "Post Type Singular Name"
 msgid "Invoices Type"
-msgstr "Type de Facture"
+msgstr "Type de factures"
 
 #: admin/class-tipi-admin.php:286
 msgid "Tipi Invoices Types"
-msgstr "Types de factures TIPI"
+msgstr "Types de factures PAYFIP"
 
 #: admin/class-tipi-admin.php:287
 msgid "Invoices Types"
@@ -127,11 +129,11 @@ msgstr "Ajouter un type de facture"
 
 #: admin/class-tipi-admin.php:291
 msgid "Invoices Type"
-msgstr "Type de Facture"
+msgstr "Type de factures"
 
 #: admin/class-tipi-admin.php:292
 msgid "Custom Invoices Types"
-msgstr "Ajouter un type de titre de paiement"
+msgstr "Types de factures personnalisées"
 
 #: admin/class-tipi-admin.php:319 admin/class-tipi-admin.php:330
 msgid "Reference"
@@ -143,11 +145,11 @@ msgstr "Référence interne"
 
 #: admin/class-tipi-admin.php:379
 msgid "Donate"
-msgstr "Faire un Don"
+msgstr "Faire un don"
 
 #: admin/partials/tipi-admin-display.php:17
 msgid "TIPI Gateway Settings"
-msgstr "Paramètres de la passerelle de paiement TIPI"
+msgstr "Paramètres de la passerelle Payfip"
 
 #: admin/partials/tipi-admin-display.php:23
 msgid "About"
@@ -155,7 +157,7 @@ msgstr "À propos"
 
 #: public/partials/faq.php:4
 msgid "Help and frequently asked questions"
-msgstr "Aide et questions fréquentes"
+msgstr "Aide et foire aux questions"
 
 #: public/partials/objet-type.php:7
 msgid "Type"
@@ -166,32 +168,25 @@ msgid "Choose a type"
 msgstr "Choisissez un type"
 
 #. Plugin Name of the plugin/theme
-msgid "Tipi"
-msgstr "Tipi"
+msgid "Payfip"
+msgstr "PayFip"
 
 #. Plugin URI of the plugin/theme
-msgid ""
-"https://www.patricelaurent.net/portfolio/e-commerce/tipi-pour-wordpress/"
-msgstr ""
-"https://www.patricelaurent.net/portfolio/e-commerce/tipi-pour-wordpress/"
+msgid "https://github.com/nicoxygen/payfip/"
+msgstr "https://github.com/nicoxygen/payfip/"
 
 #. Description of the plugin/theme
 msgid ""
-"This plugin allow you tu use the TIPI Gateway allowing people to pay by "
+"This plugin allow you tu use the PAYFIP Gateway allowing people to pay by "
 "credit card dierctly from your site."
 msgstr ""
-"Ce plugin vous permet d'utiliser la passerelle TIPI permettant aux personnes "
-"de payer par carte bancaire en toute sécurité à partir de votre site. Idéal "
-"pour les mairies et collectivités."
+"Ce plugin vous permet d'utiliser la passerelle PAYFIP permettant aux gens de "
+"payer par carte de crédit directement depuis votre site."
 
 #. Author of the plugin/theme
-msgid "Patrice LAURENT"
-msgstr "Patrice LAURENT"
+msgid "Nicolas RODRIGUEZ"
+msgstr "Nicolas RODRIGUEZ"
 
 #. Author URI of the plugin/theme
-msgid "https://www.patricelaurent.net"
-msgstr "https://www.patricelaurent.net"
-
-#~ msgid "Enter your settings here to use the TIPI Gateway"
-#~ msgstr ""
-#~ "Entrez vos paramètres ici pour utiliser la passerelle de paiement TIPI"
+msgid "https://github.com/nicoxygen/"
+msgstr "https://github.com/nicoxygen/"
