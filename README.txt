@@ -3,7 +3,7 @@
 Tags: credit card, ecommerce, e-commerce, mairie, city hall, collectivity
 Requires at least: 4.4
 Tested up to: 5.9
-Stable tag: 1.2.0.2
+Stable tag: 1.2.0.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Fork-Author URI: https://www.patricelaurent.net
@@ -54,7 +54,7 @@ https://www.collectivites-locales.gouv.fr/files/Finances%20locales/7.%20moyens%2
 
 == Changelog ==
 
-= 1.2.0.2 - 2022-02-27 =
+= 1.2.0.4 - 2022-02-27 =
 
 * fix value for mode test
 * fix link of payment tipi.budget to payfip
