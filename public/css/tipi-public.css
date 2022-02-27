@@ -60,3 +60,10 @@
     line-height: 1.428571429!important;
     border-radius: 15px!important;
 }
+
+a.btn btn-circle btn-default {
+    color: #0088ff;
+}
+a.btn btn-circle btn-primary {
+    color: #ffffff;
+}
