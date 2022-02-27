@@ -16,14 +16,14 @@
  * Plugin Name:       Payfip
  * Plugin URI:        https://github.com/nicoxygen/payfip/
  * Description:       This plugin allow you tu use the PAYFIP Gateway allowing people to pay by credit card dierctly from your site.
- * Version:           1.2.0.2
+ * Version:           1.2.0.3
  * Author:            Nicolas RODRIGUEZ
  * Author URI:        https://github.com/nicoxygen/
  * Fork:	      Patrice LAURENT
  * Author URI:        https://www.ettendorf.fr
  * License:           GPLv2 or later
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
- * Text Domain:       wp-tipi
+ * Text Domain:       wp-payfip
  * Domain Path:       /languages
  * Github Plugin URI: https://github.com/nicoxygen/payfip/
  * Requires at least: 5.1
