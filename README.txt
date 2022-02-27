@@ -103,4 +103,4 @@ https://www.collectivites-locales.gouv.fr/files/Finances%20locales/7.%20moyens%2
 = 1.0.0 =
 * Add - Initial release.
 
-[See changelog for all versions](https://raw.githubusercontent.com/plaurent75/tipi/master/changelog.txt).
+[See changelog for all versions](https://github.com/nicoxygen/payfip/changelog.txt).
