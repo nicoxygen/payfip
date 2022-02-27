@@ -61,9 +61,9 @@
     border-radius: 15px!important;
 }
 
-a.btn btn-circle btn-default {
+a.btn.btn-circle.btn-default {
     color: #0088ff;
 }
-a.btn btn-circle btn-primary {
+a.btn.btn-circle.btn-primary {
     color: #ffffff;
 }
